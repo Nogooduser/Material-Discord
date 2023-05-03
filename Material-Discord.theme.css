@@ -33,3 +33,8 @@
 	--popout-radius: 8px;
 	--popout-radius-big: 18px;
 }
+
+.theme-dark {
+	--main-color: #e792c5;
+
+}
